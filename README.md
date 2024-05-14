@@ -45,9 +45,10 @@ This command will move the starter code to the **app-example** directory and cre
 
 
 # Developed By
- - **YEAKIN IQRA
+ - **Yeakin Iqra**
 
  # Designed By
- - **Sheikh Muhammad Ashik
+ - **Sheikh Muhammad Ashik**
 
 # It's Under Development 
+
